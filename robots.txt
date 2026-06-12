@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altelxp8ery.github.io/hthen-com-cn/sitemap.xml
